@@ -1,0 +1,20 @@
+# Accept the risk
+CVE-2018-14618
+
+# Accept the risk until 2023-01-01
+CVE-2019-14697 exp:2023-01-01
+
+# No impact in our settings
+CVE-2019-1543
+CVE-2026-31789
+
+# Ignore misconfigurations
+AVD-DS-0002
+
+# Ignore secrets
+generic-unwanted-rule
+aws-account-id
+
+# Ignore licenses
+GPL-3.0
+Apache-2.0 WITH LLVM-exception
