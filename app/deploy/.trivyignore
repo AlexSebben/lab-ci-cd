@@ -2,13 +2,13 @@
 CVE-2018-14618
 CVE-2026-24049
 CVE-2026-23949
+CVE-2026-31789
 
 # Accept the risk until 2023-01-01
 CVE-2019-14697 exp:2023-01-01
 
 # No impact in our settings
 CVE-2019-1543
-CVE-2026-31789
 
 # Ignore misconfigurations
 AVD-DS-0002
